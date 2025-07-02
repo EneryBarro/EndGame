@@ -2,6 +2,13 @@
 
 Ucode project
 
+## Game screenshots
+### Game menu
+![Menu](./resource/images/Menu.png)
+
+### Game level
+![Menu](./resource/images/MENU_LVL.png)
+
 ## Description
 
 EndGame is a project primarily written in C, with supplementary code in Shell, HTML, Makefile, and CSS. It was developed as part of the Ucode curriculum.
